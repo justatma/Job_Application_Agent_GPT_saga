@@ -1,0 +1,8 @@
+# Core browser automation library
+selenium
+
+# Automatically manages the browser driver (ChromeDriver)
+webdriver-manager
+
+# Best practice for managing environment variables (e.g., login info)
+python-dotenv
